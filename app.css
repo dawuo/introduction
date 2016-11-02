@@ -31,7 +31,7 @@ body {
 	margin:10px ;
 	width:150px;
 	height:20px;
-    background: rgba(1,2,3,0);
+        background: rgba(1,2,3,0);
 	color:#B3B3B3;
 	float:left;
 	border-bottom-style:solid ;
@@ -43,9 +43,9 @@ body {
 	margin:10px;
 	width:150px;
 	height:20px;
-    background: rgba(1,2,3,0);
-    color:#B3B3B3;
-    float:left;
+        background: rgba(1,2,3,0);
+        color:#B3B3B3;
+        float:left;
 	border-bottom-style:solid ;
 	border-bottom-color:#B3B3B3;
 	text-align:center;
@@ -64,7 +64,7 @@ body {
 #text{
 	clear:left; 
 	width:520px;
-	height:250px;
+	height:245px;
 	margin:2px ;
 	font-family: 微軟正黑體;
 	letter-spacing: 2px;
@@ -73,7 +73,7 @@ body {
 	border-color:#3B5998;
 	border-style:solid ;
 	overflow-x: hidden;
-    overflow-y:auto;
+        overflow-y:auto;
 	color:#3B5998;
 }
 
